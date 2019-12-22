@@ -1,6 +1,6 @@
 # Showerthoughts
 
-Showerthought is a simple PHPMVC to post your shower thoughts for others to read!
+Showerthought is a simple PHPmvc to post your shower thoughts for others to read! It features an account creation system and authentication to post, edit and delete!
 
 # Running it local
 
